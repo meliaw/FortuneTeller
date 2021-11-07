@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Fruktur&family=Lemon&family=UnifrakturMaguntia&display=swap');
+
+body {
+  background-color: #2e2e2e;
+}
+
+#title, .heroImg, .inputContainer, .outputContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.heroImg {
+  margin-top: 8%;
+  margin-bottom: 5%;
+}
+
+#title, #result {
+  color: #fff;
+}
